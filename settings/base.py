@@ -22,7 +22,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'cmf8x43^_x8gt=aaw!^vu&k^@^$s!7xy99ivid&9=f7*j$m%46'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['learningdeploymentzaniron.herokuapp.com']
 SITE_ID = 2
 
 
