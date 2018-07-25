@@ -3,3 +3,4 @@ Django==1.11.4
 djangorestframework-jwt==1.8.0
 djangorestframework==3.3
 gunicorn==19.4
+whitenoise==3.2
