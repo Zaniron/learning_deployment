@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9db653bb-b344-4831-9509-68ead6af55f0" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/requirements/staging.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements/staging.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings/staging.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings/staging.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,8 +103,8 @@
       <file leaf-file-name="staging.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/settings/staging.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+            <state relative-caret-position="238">
+              <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -161,9 +160,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1013" />
+    <option name="x" value="1161" />
     <option name="y" value="7" />
-    <option name="width" value="888" />
+    <option name="width" value="740" />
     <option name="height" value="1012" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -282,7 +281,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1013" y="7" width="888" height="1012" extended-state="0" />
+    <frame x="1161" y="7" width="740" height="1012" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32951945" />
@@ -292,7 +291,7 @@
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32951945" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32951945" />
       <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32951945" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16304348" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1985294" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -601,8 +600,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/settings/staging.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="61" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+        <state relative-caret-position="238">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>

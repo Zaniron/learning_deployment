@@ -12,7 +12,7 @@ DATABASES = {
 }
 
 SITE_URL = 'https://learningdeploymentzaniron.herokuapp.com'
-ALLOWED_HOSTS.append('your-heroku-app.herokuapp.com')
+ALLOWED_HOSTS.append('learningdeploymentzaniron.herokuapp.com')
 
 # Log DEBUG information to the console
 LOGGING = {
